@@ -1,13 +1,13 @@
 # asdf-istioctl
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/virtualstaticvoid/asdf-istioctl/Main%20Workflow?style=flat-square)](https://github.com/virtualstaticvoid/asdf-istioctl/actions)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/nmindzforks/asdf-istioctl/Main%20Workflow?style=flat-square)](https://github.com/nmindzforks/asdf-istioctl/actions)
 
 [`istioctl`][util] plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
 ## Install
 
 ```
-asdf plugin-add istioctl https://github.com/virtualstaticvoid/asdf-istioctl.git
+asdf plugin-add istioctl https://github.com/nmindzforks/asdf-istioctl.git
 asdf install istioctl latest
 ```
 
